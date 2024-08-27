@@ -49,7 +49,7 @@ Welcome to the WeatherApp! This is a simple command-line application built in Py
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. You can also open an issue to discuss potential changes.
 
-Steps to Contribute:
+## Steps to Contribute:
 
 	1.	Fork the repository.
 	2.	Create a new branch (git checkout -b feature-branch).
@@ -58,7 +58,7 @@ Steps to Contribute:
 	5.	Push to the branch (git push origin feature-branch).
 	6.	Open a Pull Request.
 
-Future Features
+## Future Features
 
 	•	Add a weather forecast feature for the next 7 days.
 	•	Implement a graphical user interface (GUI).
